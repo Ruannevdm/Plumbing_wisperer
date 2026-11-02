@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.plumbing-whisperer.co.za/sitemap.xml
