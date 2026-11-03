@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/review", "destination": "/", "permanent": false }
+    { "source": "/review", "destination": "https://g.page/r/CWhsBNxp-9TaEBM/review", "permanent": false }
   ]
 }
